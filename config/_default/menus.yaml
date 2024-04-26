@@ -3,9 +3,9 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-  - name: Home
-    url: '#about'
-    weight: 10
+  # - name: Home
+  #   url: '#about'
+  #   weight: 10
   #- name: Highlights
   #  url: '#featured'
   #  weight: 50
