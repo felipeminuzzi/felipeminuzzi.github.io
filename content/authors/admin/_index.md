@@ -102,7 +102,7 @@ social:
     link: https://twitter.com/feminuzzi
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=LBRGNmEAAAAJ&hl=pt-BR
@@ -117,9 +117,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/felipeminuzziCV.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/felipeminuzziCV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
