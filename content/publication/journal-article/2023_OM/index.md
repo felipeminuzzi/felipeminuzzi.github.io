@@ -18,7 +18,7 @@ publishDate: "2023"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Ocean Modelling, "
+publication: "Ocean Modelling, 181, 102151"
 publication_short: ""
 
 abstract: We present a new deep learning training framework for forecasting significant wave height on the Southwestern Atlantic Ocean. We use the long short-term memory algorithm (LSTM), trained with the ERA5 dataset and also with buoy data. The forecasts are made for seven different locations in the Brazilian coast, where buoy data are available. We consider four different lead times, e.g., 6, 12, 18 and 24 h. Experiments are conducted using exclusively historical series at the selected locations. The influence of other variables as inputs for training is investigated. Results of the LSTM forecast show that a data-driven methodology can be used as a surrogate to the computational expensive physical models and also as an alternative to the reanalysis data. Accuracy of the forecasted significant wave height is close to 87% when compared to real buoy data.
@@ -28,7 +28,7 @@ abstract: We present a new deep learning training framework for forecasting sign
 
 # tags:
 # - Source Themes
-# featured: false
+featured: true
 
 # links:
 # - name: ""
