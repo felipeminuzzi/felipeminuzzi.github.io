@@ -10,7 +10,7 @@ date: "2024-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.oceaneng.2024.117479"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024"
+publishDate: "2024T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,8 +26,8 @@ abstract: The forecast of wave variables are important for several applications 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-# - Source Themes
+tags: []
+# \\- Source Themes
 featured: true
 
 # links:
