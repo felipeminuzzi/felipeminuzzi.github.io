@@ -29,7 +29,6 @@ bio: My research interests include computational fluid dynamics, ocean waves and
 
 # Interests to show in About widget
 interests:
-  - Numerical solution of PDEs
   - Computational fluid Dynamics
   - Ocean waves modelling
   - Artificial neural networks
