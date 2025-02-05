@@ -17,7 +17,7 @@ last_name: Minuzzi
 superuser: true
 
 # Role/position/tagline
-role: Adjunct Professor of Mathematics
+role: Assistant Professor of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
