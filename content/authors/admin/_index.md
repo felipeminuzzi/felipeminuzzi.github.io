@@ -29,7 +29,7 @@ bio: My research interests include computational fluid dynamics, ocean waves and
 
 # Interests to show in About widget
 interests:
-  - Computational fluid Dynamics
+  - Computational fluid dynamics
   - Ocean waves modelling
   - Artificial neural networks
   - Applications of mathematics to solve real-world problems
@@ -124,4 +124,4 @@ social:
 highlight_name: true
 ---
 
-Felipe C. Minuzzi is a professor at the Departament of Mathematics at the Federal University of Santa Maria.
+Currently, I am an Assistant Professor at the Departament of Mathematics at the Federal University of Santa Maria, RS, Brazil. My research interests encompass fluid dynamics, numerical methods for partial differential equations, and the application of machine learning in these areas. I am highly motivated to develop new deep learning methodologies, primarily through artificial neural networks, for forecasting and understanding ocean phenomena.
