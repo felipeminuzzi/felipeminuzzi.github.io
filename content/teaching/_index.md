@@ -14,4 +14,6 @@ Aqui você encontra o material das disciplinas que estou lecionando no semestre.
 
 |              <h5>Semestre</h5>          | <h5>Universidade</h5>   | <h5>Disciplina</h5>   | <h5>Materiais</h5>   |
 |:------------------------------------|:----|:----|:----|
-| 2025.1             | [UFSM](https://www.ufsm.br/) <br /> [Departamento de Matemática](https://www.ufsm.br/unidades-universitarias/ccne/departamentos/depto-de-matematica) | [MTM 1133] Eq. Dif. Parciais A | [Página]({{< ref "edp_a/index.md" >}})  |
+| 2025.1             | [UFSM](https://www.ufsm.br/) | MTM 1133 -  Eq. Dif. Parciais A | [Página]({{< ref "edp_a/index.md" >}})  |
+| 2025.1             | [UFSM](https://www.ufsm.br/) | UFSM 00041 -  Mat. Computacional II | [Página](https://github.com/felipeminuzzi/NumericalMath/tree/main/MtmComp_II)  |
+| 2025.1             | [UFSM](https://www.ufsm.br/) | UFSM 00043 -  Mat. Computacional IV | [Página](https://github.com/felipeminuzzi/NumericalMath/tree/main/MtmComp_IV)  |
