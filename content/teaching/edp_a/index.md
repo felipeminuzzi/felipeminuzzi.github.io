@@ -30,9 +30,10 @@
 
 A avaliação irá considerar a **produção** dos estudantes durante as aulas práticas, e é composta por duas partes:
 
-- N1: Listas de exercícios
+- N1: Listas de exercícios:
     - valor: 50% da nota
-- N2: Avaliações
+- N2: Avaliações:
+    - valor: 50% da nota
     - Primeira avaliação: 28/04/2025
     - Segunda avaliação: 30/06/2025
 - **Obs.:** a entrega das listas deverá ser fisicamente na data indicada.
