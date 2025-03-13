@@ -10,7 +10,7 @@
     ·
     <a href="#bibliografia">Bibliografia</a>
     .
-    <a href="#listas">Bibliografia</a>
+    <a href="#listas">Listas</a>
   </p>
 </div>
 
