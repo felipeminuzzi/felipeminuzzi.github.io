@@ -61,3 +61,5 @@ A avaliação irá considerar a **produção** dos estudantes durante as aulas p
     - entrega: **28/04/2025**
 - [Lista 4](lista_edp_IV.pdf)
     - não é necessário entregar.
+- [Lista 5](lista_edp_V.pdf)
+    - entrega: a definir.
