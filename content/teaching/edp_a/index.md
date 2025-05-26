@@ -59,3 +59,5 @@ A avaliação irá considerar a **produção** dos estudantes durante as aulas p
     - entrega: **11/04/2025**
 - [Lista 3](lista_edp_III.pdf)
     - entrega: **28/04/2025**
+- [Lista 4](lista_edp_IV.pdf)
+    - não é necessário entregar.
