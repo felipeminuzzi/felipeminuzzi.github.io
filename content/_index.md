@@ -56,13 +56,13 @@ sections:
     id: contact
     content:
       title: Contact
-      email: felipe.minuzzi@ufsm.br
-      phone: +55 (55) 3220 8000
+      email: felipe.minuzzi@ufrgs.br
+      phone: +55 (51) 3308 6218
       address:
-        street: Av. Roraima, 1000, Cidade Universitária - CCNE, Prédio 13
-        city: Santa Maria
+        street: Av. Bento Gonçalves, 9500 – Agronomia, Porto Alegre – RS.
+        city: Porto Alegre
         region: RS
-        postcode: '94305'
+        postcode: 91509-900
         country: Brazi;
         country_code: BR
       # Automatically link email and phone or display as text?
