@@ -48,4 +48,4 @@
 
 ## Exercícios
 
-- A indicação dos exercícios do livro do Anton, 10ª edição, pode ser encontrada [aqui.](http://www.mat.ufrgs.br/~mat01354/2exerN.html). Ao final da página há a indicação dos exercícios da 8ª edição.
+- A indicação dos exercícios do livro do Anton, 10ª edição, pode ser encontrada [aqui](http://www.mat.ufrgs.br/~mat01354/2exerN.html). Ao final da página há a indicação dos exercícios da 8ª edição.
