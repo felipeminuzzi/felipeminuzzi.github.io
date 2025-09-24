@@ -46,6 +46,8 @@
  
 <p align="right">(<a href="#readme-top">início</a>)</p>
 
-## Exercícios
+## Materias extras
 
-- A indicação dos exercícios do livro do Anton, 10ª edição, pode ser encontrada [aqui](http://www.mat.ufrgs.br/~mat01354/2exerN.html). Ao final da página há a indicação dos exercícios da 8ª edição. Os horários de monitoria podem ser encontrados [aqui](horarios_monitoria.pdf).
+- A indicação dos exercícios do livro do Anton, 10ª edição, pode ser encontrada [aqui](http://www.mat.ufrgs.br/~mat01354/2exerN.html). Ao final da página há a indicação dos exercícios da 8ª edição. 
+- Os horários de monitoria podem ser encontrados [aqui](horarios_monitoria.pdf).
+- Resumo das técnicas de integração: [aqui](MAT01354_resumo_integrais.pdf)
