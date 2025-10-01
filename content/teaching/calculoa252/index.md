@@ -30,7 +30,7 @@
 
 ## Avaliações
 
-- Prova 1: **15/09/2025**
+- Prova 1: **15/09/2025** - [Prova e Gabarito](avaliacao_MAT01354_202502_area1_gabarito.pdf).
 - Prova 2: **31/10/2025**
 - Recuperações: **15/12/2025**
 - **Obs.:** detalhes sobre conceitos e notas mínimas para aprovação podem ser encontrados no plano de ensino da disciplina.
@@ -51,3 +51,4 @@
 - A indicação dos exercícios do livro do Anton, 10ª edição, pode ser encontrada [aqui](http://www.mat.ufrgs.br/~mat01354/2exerN.html). Ao final da página há a indicação dos exercícios da 8ª edição. 
 - Os horários de monitoria podem ser encontrados [aqui](horarios_monitoria.pdf).
 - Resumo das técnicas de integração: [aqui](MAT01354_resumo_integrais.pdf)
+- Notas de aula de integração: [aqui](MAT01354_notas_de_aula.pdf).
