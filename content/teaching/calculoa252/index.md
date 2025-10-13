@@ -1,6 +1,6 @@
 <br /><a name="readme-top"></a>
 <div align="center">
-  <p align="center"><a href="http://www.ufsm.br/">Universidade Federal do Rio Grande do Sul</a></p>
+  <p align="center"><a href="http://www.ufrgs.br/">Universidade Federal do Rio Grande do Sul</a></p>
   <h1 align="center">MAT01354 - Cálculo e Geometria Analítica IIA</h1>
   <p align="center">
     <br />
