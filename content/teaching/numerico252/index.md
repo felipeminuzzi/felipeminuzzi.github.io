@@ -45,4 +45,5 @@
 ## Materias extras
 
 - As simulações numéricas da disciplina serão efetuadas no ambiente colaborativo do [Google Colab](https://colab.google/).
-- Uma breve introdução ao Python e dos comandos mais utilizados podem ser encontrados [aqui](https://github.com/felipeminuzzi/NumericalMath/tree/main/MtmComp_I/00_Intro_Python).
+- Uma breve introdução ao Python e dos comandos mais utilizados podem ser encontrados [aqui](https://github.com/felipeminuzzi/NumericalMath/tree/main/CalcNum/intro_python).
+- Os notebooks das aulas podem ser encontrados [aqui](https://github.com/felipeminuzzi/NumericalMath/tree/main/CalcNum). 
