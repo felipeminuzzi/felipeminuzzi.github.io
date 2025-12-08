@@ -31,7 +31,7 @@
 ## Avaliações
 
 - Prova 1: **15/09/2025** - [Prova e Gabarito](avaliacao_MAT01354_202502_area1_gabarito.pdf).
-- Prova 2: **31/10/2025**
+- Prova 2: **31/10/2025** - [Prova e Gabarito](avaliacao_MAT01354_202502_area2_gabarito.pdf)
 - Recuperações: **15/12/2025**
 - **Obs.:** detalhes sobre conceitos e notas mínimas para aprovação podem ser encontrados no plano de ensino da disciplina.
 
