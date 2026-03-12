@@ -14,8 +14,9 @@ Aqui você encontra o material das disciplinas que estou lecionando no semestre.
 
 |              <h5>Semestre</h5>          | <h5>Universidade</h5>   | <h5>Disciplina</h5>   | <h5>Materiais</h5>   |
 |:------------------------------------|:----|:----|:----|
+| 2026.1             | [UFRGS](https://www.ufrgs.br/) | MAT01353 - Cálculo e Geometria Analítica IA | [Página]({{< ref "calculo_I_261/index.md" >}})  |
 | 2025.2             | [UFRGS](https://www.ufrgs.br/) | MAT01169 - Cálculo Numérico | [Página]({{< ref "numerico252/index.md" >}})  |
-| 2025.2             | [UFRGS](https://www.ufrgs.br/) | MAT01354 - Cálculo e Geomatria Analítica IIA | [Página]({{< ref "calculoa252/index.md" >}})  |
+| 2025.2             | [UFRGS](https://www.ufrgs.br/) | MAT01354 - Cálculo e Geometria Analítica IIA | [Página]({{< ref "calculoa252/index.md" >}})  |
 | 2025.1             | [UFSM](https://www.ufsm.br/) | MTM 1133 -  Eq. Dif. Parciais A | [Página]({{< ref "edp_a/index.md" >}})  |
 | 2025.1             | [UFSM](https://www.ufsm.br/) | UFSM 00041 -  Mat. Computacional II | [Página](https://github.com/felipeminuzzi/NumericalMath/tree/main/MtmComp_II)  |
 | 2025.1             | [UFSM](https://www.ufsm.br/) | UFSM 00043 -  Mat. Computacional IV | [Página](https://github.com/felipeminuzzi/NumericalMath/tree/main/MtmComp_IV)  |
