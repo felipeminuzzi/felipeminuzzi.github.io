@@ -49,3 +49,4 @@
 <p align="right">(<a href="#readme-top">início</a>)</p>
 
 ## Materias extras
+- Os horários de monitoria podem ser encontrados [aqui](monitoria_calculo1.png). Os atendimentos presenciais serão realizados no saguão do prédio F (Campus do Vale) e os atendimentos online serão realizados pela platafoma meet, pelo link: [meet.google.com/aeg-dhow-vzs].
