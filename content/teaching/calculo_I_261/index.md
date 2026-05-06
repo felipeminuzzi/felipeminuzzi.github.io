@@ -30,7 +30,7 @@
 
 ## Avaliações
 
-- Teste 1: **16/04/2026**
+- Teste 1: **16/04/2026** [Teste e gabarito](avaliacao_MAT01353_202601_teste1_GABARITO.pdf)
 - Prova 1: **21/05/2026** 
 - Prova 2: **02/07/2026** 
 - Recuperações: **09/07/2026**
