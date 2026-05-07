@@ -50,3 +50,4 @@
 
 ## Materias extras
 - Os horários de monitoria podem ser encontrados [aqui](monitoria_calculo1.png). Os atendimentos presenciais serão realizados no saguão do prédio F (Campus do Vale) e os atendimentos online serão realizados pela platafoma meet, pelo link: [meet.google.com/aeg-dhow-vzs](http://meet.google.com/aeg-dhow-vzs).
+- Exercícios de taxas relacionadas: [clique aqui](MAT01353_taxasRelacionadas.pdf).
