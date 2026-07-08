@@ -32,8 +32,8 @@
 
 - Teste 1: **16/04/2026** [Teste e gabarito](avaliacao_MAT01353_202601_teste1_GABARITO.pdf)
 - Prova 1: **21/05/2026** [Prova e gabarito](avaliacao_MAT01353_202601_prova1_GABARITO.pdf)
-- Prova 2: **02/07/2026** 
-- Recuperações: **09/07/2026**
+- Prova 2: **09/07/2026** [Prova e gabarito](avaliacao_MAT01353_202601_prova2_GABARITO.pdf)
+- Recuperações: **14/07/2026**
 - **Obs.:** detalhes sobre conceitos e notas mínimas para aprovação podem ser encontrados no plano de ensino da disciplina.
 
 <p align="right">(<a href="#readme-top">início</a>)</p>
