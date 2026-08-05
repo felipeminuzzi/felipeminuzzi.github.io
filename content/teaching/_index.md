@@ -14,6 +14,8 @@ Aqui você encontra o material das disciplinas que estou lecionando no semestre.
 
 |              <h5>Semestre</h5>          | <h5>Universidade</h5>   | <h5>Disciplina</h5>   | <h5>Materiais</h5>   |
 |:------------------------------------|:----|:----|:----|
+| 2026.2             | [UFRGS](https://www.ufrgs.br/) | MAT01355 - Álgebra Linear I - A | [Página]({{< ref "alglin262/index.md" >}})  |
+| 2026.2             | [UFRGS](https://www.ufrgs.br/) | MAT01110 - Álgebra Linear e Geometria Analítica | [Página]({{< ref "alggeo262/index.md" >}})  |
 | 2026.1             | [UFRGS](https://www.ufrgs.br/) | MAT01353 - Cálculo e Geometria Analítica IA | [Página]({{< ref "calculo_I_261/index.md" >}})  |
 | 2025.2             | [UFRGS](https://www.ufrgs.br/) | MAT01169 - Cálculo Numérico | [Página]({{< ref "numerico252/index.md" >}})  |
 | 2025.2             | [UFRGS](https://www.ufrgs.br/) | MAT01354 - Cálculo e Geometria Analítica IIA | [Página]({{< ref "calculoa252/index.md" >}})  |
