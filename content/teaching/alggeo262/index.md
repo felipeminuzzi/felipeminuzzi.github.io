@@ -60,5 +60,7 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
 ## Materias extras
 
 Exercícios selecionados (do livro Álgebra linear e suas aplicações do David Lay):
-- Seção 1.1: 1 a 14, 19, 20, 23 a 26, 39 a 42;
-- Seção 1.2: 1, 2, 7 a 14, 21 a 24;
+- **Seção 1.1:** 1 a 14, 19, 20, 23 a 26, 39 a 42;
+- **Seção 1.2:** 1, 2, 7 a 14, 21 a 24;
+- **Seção 1.3:** 11 a 16;
+- **Seção 1.4:** 1 a 8, 11, 12, 23 a 34.
