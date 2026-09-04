@@ -64,3 +64,15 @@ Exercícios selecionados (do livro Álgebra linear e suas aplicações do David 
 - **Seção 1.2:** 1, 2, 7 a 14, 21 a 24;
 - **Seção 1.3:** 11 a 16;
 - **Seção 1.4:** 1 a 8, 11, 12, 23 a 34.
+
+## Monitoria
+
+A disciplina conta com monitoria presencial e EAD para apoiar os estudos e esclarecer dúvidas. Confira abaixo os horários e formas de atendimento:
+- Monitoria Presencial:
+  - Monitor: Wagner Gomes;
+  - Local: Saguão do Prédio F – (Campus do Vale);
+  - Horários: Segunda-feira: 13h às 17h; Terça-feira 13h às 15h30; Sexta-feira 8h30 às 12h.
+
+- Monitoria EAD:
+    - Monitores: Matheus Della Flora e Mateus Corteze;
+    - [Grupo de WhatsApp](https://chat.whatsapp.com/JeOeknjHf2e3fuVz3pLQVY?mode=hq2tcli)
