@@ -64,56 +64,14 @@ Exercícios selecionados (do livro Álgebra linear e suas aplicações do David 
 - **Seção 1.3:** 11 a 16;
 - **Seção 1.4:** 1 a 8, 11, 12, 15, 16, 23 a 34.
 
-<div
-  style="font-family: Arial, sans-serif; max-width: 900px; margin: auto; line-height: 1.6;">
-  <h2
-    style="color: #1f4e79; border-bottom: 3px solid #1f4e79; padding-bottom: 8px;">
-    Monitoria – Álgebra Linear (2026/2)</h2>
-  <p>A disciplina conta com monitoria <strong>presencial</strong> e
-    <strong>EAD</strong> para apoiar os estudos e esclarecer dúvidas. Confira
-    abaixo os horários e formas de atendimento:</p>
-  <!-- PRESENCIAL -->
-  <div
-    style="background: #f0f7ff; border-left: 6px solid #1f4e79; border-radius: 6px; padding: 20px; margin: 25px 0; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-    <h3 style="margin-top: 0; color: #1f4e79;">Monitoria Presencial</h3>
-    <p><strong>Monitor:</strong> Wagner Gomes</p>
-    <p><strong>Local:</strong> Saguão do Prédio F – sala a definir</p>
-    <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
-      <tbody>
-        <tr>
-          <td style="padding: 6px 0;"><strong>Segunda-feira</strong></td>
-          <td>13h às 17h</td>
-        </tr>
-        <tr>
-          <td style="padding: 6px 0;"><strong>Terça-feira</strong></td>
-          <td>13h às 15h30</td>
-        </tr>
-        <tr>
-          <td style="padding: 6px 0;"><strong>Sexta-feira</strong></td>
-          <td>8h30 às 12h</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <!-- EAD -->
-  <div
-    style="background: #f8f3ff; border-left: 6px solid #6a3fb5; border-radius: 6px; padding: 20px; margin: 25px 0; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-    <h3 style="margin-top: 0; color: #6a3fb5;">Monitoria EAD</h3>
-    <p><strong>Matheus Della Flora</strong></p>
-    <p><strong>Mateus Corteze</strong></p>
-    <div style="margin-top: 15px;">
-      <p><strong>Grupo de WhatsApp:</strong><br><a
-          style="color: #6a3fb5; font-weight: bold;"
-          href="https://chat.whatsapp.com/JeOeknjHf2e3fuVz3pLQVY?mode=hq2tcli"
-          target="_blank" rel="noopener"> Acessar grupo </a></p>
-    </div>
-  </div>
-  <!-- ORIENTAÇÃO -->
-  <div
-    style="background: #fff9ed; border-left: 6px solid #e6a500; border-radius: 6px; padding: 20px; margin-top: 25px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
-    <h3 style="margin-top: 0; color: #e6a500;">Orientação</h3>
-    <p>Utilize a monitoria para revisar conteúdos, resolver exercícios e
-      esclarecer dúvidas específicas. A participação é livre, e aproveitar esse
-      recurso pode fazer grande diferença no seu aprendizado.</p>
-  </div>
-</div>
+## Monitoria
+
+A disciplina conta com monitoria presencial e EAD para apoiar os estudos e esclarecer dúvidas. Confira abaixo os horários e formas de atendimento:
+- Monitoria Presencial:
+  - Monitor: Wagner Gomes;
+  - Local: Saguão do Prédio F – (Campus do Vale);
+  - Horários: Segunda-feira: 13h às 17h; Terça-feira 13h às 15h30; Sexta-feira 8h30 às 12h.
+
+- Monitoria EAD:
+    - Monitores: Matheus Della Flora e Mateus Corteze;
+    - [Grupo de WhatsApp](https://chat.whatsapp.com/JeOeknjHf2e3fuVz3pLQVY?mode=hq2tcli)
