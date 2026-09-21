@@ -68,6 +68,11 @@ Exercícios selecionados (do livro Álgebra linear e suas aplicações do David 
 - **Seção 1.7:** 1 a 8, 11 a 28.
 - **Seção 1.8:** 1 a 6, 8,9,10,11 e 12, 21 a 29.
 - **Seção 1.9:** 1 a 10, 17 a 32.
+- **Seção 2.2:** 1 a 6, 11 a 20, 39 a 42.
+- **Seção 2.3:** 1 a 8, 11 a 20.
+
+
+[Resumo da Área 1](resumoArea1_MAT01110_202602.pdf)
 
 ## Monitoria
 
