@@ -71,6 +71,7 @@ Exercícios selecionados (do livro Álgebra linear e suas aplicações do David 
 - **Seção 2.3:** 1 a 8, 11 a 20.
 - **Seção 4.1:** 1 a 3, 9 a 18, 21, 22, 23 a 32.
 - **Seção 4.2:** 1 a 16, 25 a 38.
+- **Seção 4.3:** 1 a 8, 21 a 32.
 
 ## Monitoria
 
