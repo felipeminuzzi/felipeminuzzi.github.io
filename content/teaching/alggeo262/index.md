@@ -41,8 +41,8 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
 **Data das provas e recuperações:**
 
 - Prova 1: **29/09/2026** 
-- Prova 2: **03/12/2026** 
-- Recuperações: **08/12/2026**
+- Prova 2: **17/11/2026** 
+- Recuperações: **24/11/2026**
 - **Obs.:** detalhes sobre conceitos e notas mínimas para aprovação podem ser encontrados no plano de ensino da disciplina.
 
 <p align="right">(<a href="#readme-top">início</a>)</p>
@@ -59,20 +59,21 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
 
 ## Materias extras
 
-Exercícios selecionados (do livro Álgebra linear e suas aplicações do David Lay):
-- **Seção 1.1:** 1 a 14, 19, 20, 23 a 26, 39 a 42;
-- **Seção 1.2:** 1, 2, 7 a 14, 21 a 24;
-- **Seção 1.3:** 11 a 16;
-- **Seção 1.4:** 1 a 8, 11, 12, 23 a 34.
-- **Seção 1.5:** 1 a 4, 27 a 32, 45, 46.
-- **Seção 1.7:** 1 a 8, 11 a 28.
-- **Seção 1.8:** 1 a 6, 8,9,10,11 e 12, 21 a 29.
-- **Seção 1.9:** 1 a 10, 17 a 32.
-- **Seção 2.2:** 1 a 6, 11 a 20, 39 a 42.
-- **Seção 2.3:** 1 a 8, 11 a 20.
+- **Área 1** Exercícios selecionados (do livro Álgebra linear e suas aplicações do David Lay):
+  - **Seção 1.1:** 1 a 14, 19, 20, 23 a 26, 39 a 42;
+  - **Seção 1.2:** 1, 2, 7 a 14, 21 a 24;
+  - **Seção 1.3:** 11 a 16;
+  - **Seção 1.4:** 1 a 8, 11, 12, 23 a 34.
+  - **Seção 1.5:** 1 a 4, 27 a 32, 45, 46.
+  - **Seção 1.7:** 1 a 8, 11 a 28.
+  - **Seção 1.8:** 1 a 6, 8,9,10,11 e 12, 21 a 29.
+  - **Seção 1.9:** 1 a 10, 17 a 32.
+  - **Seção 2.2:** 1 a 6, 11 a 20, 39 a 42.
+  - **Seção 2.3:** 1 a 8, 11 a 20.
 
+- **Área 2** 
 
-[Resumo da Área 1](resumoArea1_MAT01110_202602.pdf)
+- [Resumo da Área 1](resumoArea1_MAT01110_202602.pdf)
 
 ## Monitoria
 
