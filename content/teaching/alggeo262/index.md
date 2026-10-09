@@ -40,7 +40,7 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
 
 **Data das provas e recuperações:**
 
-- Prova 1: **29/09/2026** 
+- Prova 1: **29/09/2026** [Gabarito](avaliacao_MAT01110_202602_prova1_GABARITO.pdf)
 - Prova 2: **17/11/2026** 
 - Recuperações: **24/11/2026**
 - **Obs.:** detalhes sobre conceitos e notas mínimas para aprovação podem ser encontrados no plano de ensino da disciplina.
