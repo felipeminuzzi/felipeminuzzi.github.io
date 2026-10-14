@@ -58,20 +58,25 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
 
 ## Materias extras
 
-Exercícios selecionados (do livro Álgebra linear e suas aplicações do David Lay):
-- **Seção 1.1:** 1 a 14, 19, 20, 23 a 26, 39 a 42;
-- **Seção 1.2:** 1, 2, 7 a 14, 21 a 24;
-- **Seção 1.3:** 11 a 16;
-- **Seção 1.4:** 1 a 8, 11, 12, 15, 16, 23 a 34.
-- **Seção 1.5:** 1 a 4, 27 a 32, 45, 46.
-- **Seção 1.7:** 1 a 8, 11 a 28.
-- **Seção 1.8:** 1 a 6, 8,9,10,11 e 12, 21 a 29.
-- **Seção 1.9:** 1 a 10, 17 a 32.
-- **Seção 2.2:** 1 a 6, 11 a 20, 39 a 42.
-- **Seção 2.3:** 1 a 8, 11 a 20.
-- **Seção 4.1:** 1 a 3, 9 a 18, 21, 22, 23 a 32.
-- **Seção 4.2:** 1 a 16, 25 a 38.
-- **Seção 4.3:** 1 a 8, 21 a 32.
+- **Área 1** Exercícios selecionados (do livro Álgebra linear e suas aplicações do David Lay):
+  - **Seção 1.1:** 1 a 14, 19, 20, 23 a 26, 39 a 42;
+  - **Seção 1.2:** 1, 2, 7 a 14, 21 a 24;
+  - **Seção 1.3:** 11 a 16;
+  - **Seção 1.4:** 1 a 8, 11, 12, 15, 16, 23 a 34.
+  - **Seção 1.5:** 1 a 4, 27 a 32, 45, 46.
+  - **Seção 1.7:** 1 a 8, 11 a 28.
+  - **Seção 1.8:** 1 a 6, 8,9,10,11 e 12, 21 a 29.
+  - **Seção 1.9:** 1 a 10, 17 a 32.
+  - **Seção 2.2:** 1 a 6, 11 a 20, 39 a 42.
+  - **Seção 2.3:** 1 a 8, 11 a 20.
+  - **Seção 4.1:** 1 a 3, 9 a 18, 21, 22, 23 a 32.
+  - **Seção 4.2:** 1 a 16, 25 a 38.
+  - **Seção 4.3:** 1 a 8, 21 a 32.
+  
+- **Área 2** Exercícios selecionados (do livro Álgebra linear e suas aplicações do David Lay):
+  - **Seção 3.1:** 1 ao 14;
+  - **Seção 5.1:** 1 ao 8, 17 a 20, 21 a 30;
+  - **Seção 5.2:** 1 ao 17, 21 ao 30;
 
 ## Monitoria
 

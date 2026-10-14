@@ -72,6 +72,7 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
   - **Seção 2.3:** 1 a 8, 11 a 20.
 
 - **Área 2** 
+  - **Vetores, Produto Escalar, Vetorial e Misto:** [Lista 1](lista1_MAT01110.pdf)
 
 - [Resumo da Área 1](resumoArea1_MAT01110_202602.pdf)
 
