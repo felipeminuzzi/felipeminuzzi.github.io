@@ -73,6 +73,7 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
 
 - **Área 2** 
   - **Vetores, Produto Escalar, Vetorial e Misto:** [Lista 1](lista1_MAT01110.pdf)
+  - **Equações de reta e plano:** [Lista 2](lista2_MAT01110.pdf)
 
 - [Resumo da Área 1](resumoArea1_MAT01110_202602.pdf)
 
