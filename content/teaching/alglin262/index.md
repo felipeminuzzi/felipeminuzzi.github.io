@@ -77,6 +77,9 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
   - **Seção 3.1:** 1 ao 14;
   - **Seção 5.1:** 1 ao 8, 17 a 20, 21 a 30;
   - **Seção 5.2:** 1 ao 17, 21 ao 30;
+  - **Seção 6.1:** 1 ao 18, 19 ao 28;
+  - **Seção 6.2:** 1 ao 16.
+  
 
 ## Monitoria
 
