@@ -77,7 +77,6 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
   - **Posições relativas entre retas e planos:** [Lista 3](lista3_MAT01110.pdf)
 
 - [Resumo da Área 1](resumoArea1_MAT01110_202602.pdf)
-- [Resumo da Área 2](resumoArea2_MAT01110_202602.pdf)
 
 ## Monitoria
 
