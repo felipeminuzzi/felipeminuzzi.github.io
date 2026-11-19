@@ -21,8 +21,8 @@ role: Assistant Professor of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UFSM - RS, Brazil
-    url: https://www.ufsm.br/
+  - name: UFRGS - RS, Brazil
+    url: https://www.ufrgs.br/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computational fluid dynamics, ocean waves and neural networks, both theoretically and applied to real world problems.
