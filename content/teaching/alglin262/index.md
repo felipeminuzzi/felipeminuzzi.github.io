@@ -82,6 +82,8 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
   - **Seção 6.4:** 1 ao 14, 17 ao 22;
   - **Seção 6.5:** 1 ao 8, 17 ao 26;
   - **Seção 6.6:** 1 ao 8, 13, 15.
+
+- **Aula de DVS**: [Documento](aula_SVD.pdf)
   
 
 ## Monitoria
