@@ -84,6 +84,7 @@ Caso o aluno não esteja reprovado com FF (conforme critério acima), será ofer
   - **Seção 6.6:** 1 ao 8, 13, 15.
 
 - **Aula de DVS**: [Documento](aula_SVD.pdf)
+- **Prova do semestre anterior:** [aqui](avaliacao_MAT01355_202601_prova2.pdf)
   
 
 ## Monitoria
